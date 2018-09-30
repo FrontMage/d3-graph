@@ -1,0 +1,13 @@
+{
+  "files": [
+    "app/src/**/*",
+    "app/src/**",
+    "app/node_modules/_@types_mithril-global@1.1.1@@types/mithril-global/index.d.ts"
+  ],
+  "compilerOptions": {
+    "outDir": "./app/public/scripts",
+    "noImplicitAny": false,
+    "allowJs": true,
+    "target": "es5"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "d3-graph",
+  "version": "0.0.1",
+  "description": "d3 based force layout graph",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "d3",
+    "graph",
+    "force-layout"
+  ],
+  "author": "FrontMage",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^5.7.0"
+  }
+}
