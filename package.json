@@ -1,8 +1,8 @@
 {
   "name": "d3-graph",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "d3 based force layout graph",
-  "main": "index.ts",
+  "main": "./index.ts",
   "repository": "https://github.com/FrontMage/d3-graph",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
